@@ -1,3 +1,3 @@
 # ExemploWebSocket
 
-Na pasta do prejeto digitar dotnet run no terminal e abrir WebSocketClient.html
+Na pasta do projeto digitar dotnet run no terminal e abrir WebSocketClient.html
